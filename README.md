@@ -1,4 +1,7 @@
 # xabadia.github.io
+* [Language](##Language)
+* [HTML](##HTML)
+
 ## Language
 This will be a website about language:
 * natural    
