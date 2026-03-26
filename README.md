@@ -1,4 +1,4 @@
 # index
 - [about me](/about.md)
-- [🐍 triemoji mandarin method](/python-triemoji-mandarin-method.md)
-- [🐍 flags quiz](/python-flags-quiz.md)
+- [🐍 triemoji mandarin method](https://xabadia.github.io/python-triemoji-mandarin-method.md)
+- [🐍 flags quiz.md](https://xabadia.github.io/python-flags-quiz.md)
